@@ -2,3 +2,4 @@
 
 - This is a readme file.
 - Add an other comment.
+- And a conflict appear.
